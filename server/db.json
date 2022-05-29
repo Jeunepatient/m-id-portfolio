@@ -1,0 +1,499 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "lastname": "Diallo",
+      "firstName": "Ibrahima Oury",
+      "email": "di84454@gmail.com",
+      "phone": "026 873 5903",
+      "undefined": "Ghana",
+      "country": "Ghana"
+    },
+    {
+      "id": 2,
+      "lastname": "Barry",
+      "firstName": "moussa",
+      "email": "di84454@gmail.com",
+      "phone": "624 82 50 00",
+      "undefined": "Ghana",
+      "country": "Ghana"
+    },
+    {
+      "id": 5,
+      "lastname": "Bah",
+      "firstName": "Idiatou",
+      "email": "di84454@gmail.com",
+      "phone": "624 82 50 00",
+      "undefined": "Ghana",
+      "country": "Ghana"
+    },
+    {
+      "firstName": "Adama hawa",
+      "email": "adam@gmail.com",
+      "lastname": "Baldé",
+      "phone": "875 657 96512",
+      "id": 6
+    },
+    {
+      "firstName": "ousmane ",
+      "email": "ousma@gmail.com",
+      "lastname": "Diallo",
+      "phone": "62475 698 788",
+      "id": 7
+    },
+    {
+      "firstName": "ousmane oury",
+      "email": "ousma@gmail.com",
+      "lastname": "Barry",
+      "phone": "62475 698 788",
+      "id": 8
+    },
+    {
+      "firstName": "Messi andré",
+      "email": "leomessi@gmail.com",
+      "lastname": "leonel",
+      "phone": "+1 854 122 3654 98",
+      "id": 9
+    },
+    {
+      "firstName": "Mariam Ciré",
+      "email": "ma@gmail.com",
+      "lastname": "Diallo",
+      "phone": "224 622 00 73 73",
+      "id": 10
+    },
+    {
+      "firstName": "wassa money",
+      "email": "wassa@gmail.com",
+      "lastname": "davido",
+      "phone": "624850 000 000",
+      "id": 13
+    },
+    {
+      "firstName": "Adama hawa",
+      "email": "wassa@gmail.com",
+      "lastname": "Baldé",
+      "phone": "62475 698 788",
+      "id": 14
+    },
+    {
+      "firstName": "Chris",
+      "email": "okenve]@gmail.com",
+      "lastname": "okenve",
+      "phone": "+240555428374",
+      "id": 15
+    },
+    {
+      "firstName": "Adama hawa",
+      "email": "adam@gmail.com",
+      "lastname": "Diallo",
+      "phone": "248 6548 8650",
+      "id": 16
+    },
+    {
+      "firstName": "ousmane ",
+      "email": "di84454@gmail.com",
+      "lastname": "Diallo",
+      "phone": "62475 698 788",
+      "id": 17
+    },
+    {
+      "firstName": "Adama hawa",
+      "email": "di84454@gmail.com",
+      "lastname": "Baldé",
+      "phone": "875 657 96512",
+      "id": 19
+    },
+    {
+      "firstName": "Mamdou Bella",
+      "email": "DIM@G%",
+      "lastname": "dialo",
+      "phone": "6587 785522652",
+      "id": 20
+    },
+    {
+      "firstName": "lp",
+      "email": "di84454@gmail.com",
+      "lastname": "Diallo",
+      "phone": "6885578588",
+      "id": 21
+    },
+    {
+      "firstName": "Adama hawa",
+      "email": "di84454@gmail.com",
+      "lastname": "Diallo",
+      "phone": "248 6548 8650",
+      "undefined": "EUR",
+      "id": 22
+    },
+    {
+      "firstName": "",
+      "email": "",
+      "lastname": "",
+      "phone": "",
+      "country": "EUR",
+      "undefined": "BTC",
+      "id": 23
+    },
+    {
+      "firstName": "",
+      "email": "",
+      "lastname": "",
+      "phone": "",
+      "country": "Guinea",
+      "undefined": "senegal",
+      "id": 24
+    },
+    {
+      "firstName": "",
+      "email": "",
+      "lastname": "",
+      "phone": "",
+      "country": "Guinea",
+      "id": 28,
+      "undefined": "Guinea"
+    },
+    {
+      "firstName": "",
+      "email": "",
+      "lastname": "",
+      "phone": "",
+      "country": "Ghana",
+      "undefined": "Ghana",
+      "id": 29
+    },
+    {
+      "firstName": "Chris",
+      "email": "",
+      "lastname": "",
+      "phone": "",
+      "country": "Ghana",
+      "undefined": "Ghana",
+      "": "Chris",
+      "id": 30
+    }
+  ],
+  "user": [
+    {
+      "firstName": "Mamadou moussa",
+      "lastname": "Bangoura",
+      "username": "mamadou225j@",
+      "password": "mamadou",
+      "cma_agency_id": "15",
+      "isloggedin": true,
+      "": "15",
+      "id": 4
+    },
+    {
+      "firstName": "Adama hawa",
+      "lastname": "sall",
+      "username": "sall@15",
+      "password": "sall",
+      "cma_agency_id": "25",
+      "isloggedin": false,
+      "": "25",
+      "id": 6
+    },
+    {
+      "firstName": "Adama hawa",
+      "lastname": "Baldé",
+      "username": "balde24@",
+      "password": "balde85",
+      "cma_agency_id": "24",
+      "isloggedin": false,
+      "": "balde24@",
+      "id": 7
+    },
+    {
+      "firstName": "Mouctareo",
+      "lastname": "Diallo",
+      "username": "mouct25@",
+      "password": "mouct12",
+      "cma_agency_id": "54",
+      "isloggedin": false,
+      "": "Mouctareo",
+      "id": 8
+    }
+  ],
+  "harbor": [
+    {
+      "id": 1,
+      "name": "senegal harbor",
+      "geopoint_id": "Dakar",
+      "code": "senegal0245",
+      "ville_id": "senegal Dakar",
+      "undefined": "Dakar",
+      "isloggedin": false
+    },
+    {
+      "name": "Abuja",
+      "geopoint_id": "Dakar",
+      "code": "Abuja24",
+      "ville_id": "Ghana Accra",
+      "": "Abuja24",
+      "isloggedin": false,
+      "undefined": "Ghana Accra",
+      "id": 2
+    },
+    {
+      "name": "Tema",
+      "geopoint_id": "tmea201",
+      "code": "tema254@",
+      "ville_id": "Togo Lomé",
+      "": "tema254@",
+      "isloggedin": false,
+      "undefined": "Togo Lomé",
+      "id": 3
+    },
+    {
+      "name": "lome",
+      "geopoint_id": "Lome",
+      "code": "lome245",
+      "ville_id": "GHA",
+      "": "lome245",
+      "isloggedin": false,
+      "undefined": "GHA",
+      "id": 4
+    },
+    {
+      "name": "Tema",
+      "geopoint_id": "Lome",
+      "code": "LOME254",
+      "ville_id": "GUI",
+      "": "LOME254",
+      "isloggedin": false,
+      "undefined": "GUI",
+      "id": 5
+    },
+    {
+      "name": "",
+      "geopoint_id": "",
+      "code": "",
+      "ville_id": "COT",
+      "undefined": "COT",
+      "isloggedin": false,
+      "id": 6
+    }
+  ],
+  "town": [
+    {
+      "id": 1,
+      "name": "Abuja",
+      "country_id": "GUI",
+      "code": "Abuja24",
+      "undefined": "GUI"
+    },
+    {
+      "name": "Abijan",
+      "country_id": "COT",
+      "code": "abijan02",
+      "": "abijan02",
+      "isloggedin": false,
+      "undefined": "COT",
+      "id": 2
+    },
+    {
+      "name": "Tema",
+      "country_id": "GHA",
+      "code": "ghana01",
+      "": "ghana01",
+      "isloggedin": false,
+      "undefined": "GHA",
+      "id": 3
+    },
+    {
+      "name": "Dakar",
+      "country_id": "GUI",
+      "code": "guin002",
+      "": "guin002",
+      "undefined": "GUI",
+      "id": 4
+    },
+    {
+      "name": "Conakry",
+      "country_id": "GHA",
+      "code": "ghana021",
+      "": "ghana021",
+      "undefined": "GHA",
+      "id": 5
+    },
+    {
+      "name": "yamossokro",
+      "country_id": "COT",
+      "code": "abouja0254",
+      "": "abouja0254",
+      "undefined": "COT",
+      "id": 6
+    },
+    {
+      "name": "Lomé",
+      "country_id": "TOG",
+      "code": "lom3544@",
+      "": "lom3544@",
+      "undefined": "TOG",
+      "id": 7
+    },
+    {
+      "name": "Abuja",
+      "country_id": 3,
+      "code": "abouja028",
+      "": "abouja028",
+      "undefined": 3,
+      "id": 8
+    },
+    {
+      "name": "Bamako",
+      "country_id": 4,
+      "code": "mali025",
+      "": "mali025",
+      "undefined": 4,
+      "id": 9
+    },
+    {
+      "name": "labe",
+      "country_id": 1,
+      "code": "abouja02",
+      "": "labe",
+      "undefined": 1,
+      "id": 10
+    },
+    {
+      "name": "Boké",
+      "country_id": 1,
+      "code": "boké012",
+      "undefined": 1,
+      "": "boké012",
+      "id": 11
+    },
+    {
+      "name": "",
+      "country_id": 3,
+      "code": "abouja02",
+      "undefined": 3,
+      "id": 12
+    },
+    {
+      "name": "",
+      "country_id": 3,
+      "code": "abouja02",
+      "undefined": 3,
+      "id": 13
+    },
+    {
+      "name": "Lapaz",
+      "country_id": 3,
+      "code": "mlouja02",
+      "": "mlouja02",
+      "undefined": 3,
+      "id": 14
+    },
+    {
+      "name": "",
+      "country_id": 1,
+      "code": "abouja02",
+      "undefined": 1,
+      "id": 15
+    },
+    {
+      "name": "",
+      "country_id": 1,
+      "code": "abouja02",
+      "undefined": 1,
+      "id": 16
+    },
+    {
+      "name": "",
+      "country_id": 3,
+      "code": "abouja02",
+      "undefined": 3,
+      "id": 17
+    },
+    {
+      "name": "",
+      "country_id": 3,
+      "code": "abouja02",
+      "undefined": 3,
+      "id": 18
+    },
+    {
+      "name": "",
+      "country_id": "GUI",
+      "code": "abouja02",
+      "id": 19
+    },
+    {
+      "name": "",
+      "country_id": "GUI",
+      "code": "abouja02",
+      "id": 20
+    },
+    {
+      "name": "Kankan",
+      "country_id": "GUI",
+      "code": "abouja022",
+      "": "abouja022",
+      "id": 21
+    },
+    {
+      "name": "",
+      "country_id": "GUI",
+      "code": "abouja02",
+      "id": 22
+    }
+  ],
+  "office": [
+    {
+      "id": 1,
+      "number": "28",
+      "name": "marketing"
+    },
+    {
+      "name": "human ressource",
+      "number": "105",
+      "id": 2
+    }
+  ],
+  "country": [
+    {
+      "id": 1,
+      "name": "Guinea",
+      "code": "guin021",
+      "zone_id": "012"
+    },
+    {
+      "name": "juene",
+      "code": " 025",
+      "zone_id": 2,
+      "": "juene",
+      "undefined": 2,
+      "id": 2
+    },
+    {
+      "name": "Nigeria",
+      "code": "024Nigeria",
+      "zone_id": 3,
+      "undefined": 3,
+      "": "024Nigeria",
+      "id": 3
+    },
+    {
+      "name": "Mali",
+      "code": "024MALI",
+      "zone_id": "east",
+      "": "024MALI",
+      "undefined": "east",
+      "id": 4
+    },
+    {
+      "name": "Cameroon",
+      "code": "cam24@",
+      "zone_id": "east",
+      "": "cam24@",
+      "undefined": "east",
+      "id": 5
+    }
+  ],
+  "signin": {
+    "issignedin": true
+  }
+}
